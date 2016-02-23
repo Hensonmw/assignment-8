@@ -6,6 +6,9 @@ created by me for task2
 
 
 def sum_function():
+    """
+     compute the sum of the integers from 0 to 1000 (inclusive) with for loop
+    """
     s = 0
     for i in range(1001):
         s += i
