@@ -1,0 +1,3 @@
+Roses are red
+Violets are blue
+For loops are fun, exciting, and new!
